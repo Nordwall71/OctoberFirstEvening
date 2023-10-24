@@ -122,9 +122,9 @@ namespace OctoberFirstEvening
             
                 Console.WriteLine("What's your favorite car make?");
                 string userCar = Console.ReadLine();
-                
-            
-            
+            string retry = "no";
+            do
+            {
                 switch (userCar.ToLower())
                 {
                     case "ford":
@@ -140,7 +140,7 @@ namespace OctoberFirstEvening
                         Console.WriteLine("Meh...");
                         break;
                 }
-            
+            }while(retry != "no");
             
             
             
