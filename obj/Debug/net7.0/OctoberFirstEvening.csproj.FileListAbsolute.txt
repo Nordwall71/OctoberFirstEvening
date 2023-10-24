@@ -1,0 +1,14 @@
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\obj\Debug\net7.0\OctoberFirstEvening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\obj\Debug\net7.0\OctoberFirstEvening.AssemblyInfoInputs.cache
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\obj\Debug\net7.0\OctoberFirstEvening.AssemblyInfo.cs
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\obj\Debug\net7.0\OctoberFirstEvening.csproj.CoreCompileInputs.cache
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\bin\Debug\net7.0\OctoberFirstEvening.exe
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\bin\Debug\net7.0\OctoberFirstEvening.deps.json
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\bin\Debug\net7.0\OctoberFirstEvening.runtimeconfig.json
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\bin\Debug\net7.0\OctoberFirstEvening.dll
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\bin\Debug\net7.0\OctoberFirstEvening.pdb
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\obj\Debug\net7.0\OctoberFirstEvening.dll
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\obj\Debug\net7.0\refint\OctoberFirstEvening.dll
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\obj\Debug\net7.0\OctoberFirstEvening.pdb
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\obj\Debug\net7.0\OctoberFirstEvening.genruntimeconfig.cache
+C:\Users\johnf\OneDrive\Desktop\repos\OctoberFirstEvening\obj\Debug\net7.0\ref\OctoberFirstEvening.dll
